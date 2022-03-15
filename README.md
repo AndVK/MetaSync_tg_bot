@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://s7.gifyu.com/images/SNIMOK-EKRANA-2022-03-13-V-8.51.25-PM.png">
+<img src="https://s7.gifyu.com/images/SNIMOK-EKRANA-2022-03-13-V-8.51.25-PM.png" width=300px>
 
 Bot for tracking the rate of popular cryptocurrencies.
 
