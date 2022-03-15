@@ -2,11 +2,13 @@
 
 ---
 
+<img src="https://imgkub.com/image/DhI3i">
+
 Bot for tracking the rate of popular cryptocurrencies.
 
 # Installation
 
-1.	Get a token from the Telegram bot - @BotFather
-2.	Create and initialize file `.env`
-3.	Install Dependencies `npm install`
+1.	Install Dependencies `npm install`
+2.	Get a token from the Telegram bot - @BotFather
+3.	Create and initialize file `.env`
 4.	Run bot `npm start`
