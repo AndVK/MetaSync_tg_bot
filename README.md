@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://imgkub.com/image/DhI3i">
+<img src="https://ibb.co/KwTSxkC">
 
 Bot for tracking the rate of popular cryptocurrencies.
 
